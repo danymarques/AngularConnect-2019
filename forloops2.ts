@@ -1,5 +1,5 @@
-import { createBenchmark } from './benchmark';
-const _ = require('lodash');
+import { createBenchmark } from "./benchmark";
+import _ from "lodash";
 
 const benchmark = createBenchmark('For Loops!');
 

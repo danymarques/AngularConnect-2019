@@ -1,4 +1,4 @@
-const _ = require('lodash');
+import _ from "lodash";
 const COUNT = Number.parseInt(process.argv[2] || "10");
 console.log(`Running ${COUNT} iterations.`);
 
