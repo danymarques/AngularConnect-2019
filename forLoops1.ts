@@ -3,7 +3,7 @@ const COUNT = Number.parseInt(process.argv[2] || "10");
 console.log(`Running ${COUNT} iterations.`);
 
 function timeForEach() {
-  [0, 1, 2, 3, 4, 5].forEach(x => x * 10);
+  [0, 1, 2, 3, 4, 5].forEach(number => number * 10);
 }
 
 function timeForOf() {

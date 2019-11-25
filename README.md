@@ -13,6 +13,14 @@ npm install
 npm run watch
 ```
 
+## `forLoops0.js`
+
+Demonstrates a simple benchmark.
+```
+node ./dist/forLoops0.js
+```
+
+
 ## `forLoops1.js`
 
 Demonstrates inlining.
