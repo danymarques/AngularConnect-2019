@@ -35,5 +35,4 @@ node ./dist/forLoops1.js 100000
 Demonstrates stable numbers.
 ```
 node ./dist/forLoops2.js
-./node_modules/.bin/deoptigate ./dist/forLoops2.js
 ```
